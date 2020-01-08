@@ -1,1 +1,1 @@
-# pass_generator
+# Simple Password generator with length option 
